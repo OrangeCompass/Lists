@@ -1,0 +1,1 @@
+A list making app that utilizes fastapi as backend, json file (eventually mongodb) as storage and a simple and intuitive UI designed with Figma.

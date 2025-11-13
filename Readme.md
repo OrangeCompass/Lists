@@ -11,13 +11,7 @@ Your mind is for ideas, not inventory. It’s time to offload, organize, and get
 Vector is the single hub designed to help you find your way through mental clutter. We go beyond simple To-Do lists—we help you capture all of life's lists: from urgent lecture notes and spontaneous business ideas, to grocery runs and detailed growth strategies.
 Stop trying to remember everything. Let Vector take care of what you need to offload from your mind.
 
-- Taglines (Succinct & Inviting)
- Focus                Tagline
- All-in-One           Vector: The one place for every list you make.
- Mental Offloading    Offload Your Brain: If you can list it, we can hold it.
- Clarity              From Chaos to Clarity. Your thoughts, perfectly structured.
-
-Honourable mentions for Name:
-Modern / Professional: Unify, ClearSpace, Direx
-Classic / Trustworthy: Compass, Slate, Jot
-Functional / Descriptive: Listor, VividList, EveryList
+- Honourable mentions for Name:
+1. Modern / Professional: Unify, ClearSpace, Direx
+2. Classic / Trustworthy: Compass, Slate, Jot
+3. Functional / Descriptive: Listor, VividList, EveryList

@@ -1,0 +1,35 @@
+Milestone	What all problems do users face?	Use Case	Feature	Feature Description	Technical Flow	Estimated Hours
+Authentication	Users want to see the homepage	Website Visit	HomePage			
+	Users want to create an account	New User	Sign-Up	"Form to submit details for new user account creation, creates an entry in database"		
+	Users want to login to their account	Existing User	Log-In			
+	Users want to logout of their account		Log-Out	Button to logout that redirects to homepage		
+	Users want to reset password when they forget through mail	Password Reset	Forgot Password	Button to reset password by sending a password reset link to email		
+Core	Users want to see empty page when no list is created	New User Sign-Up	My Vectors Page	"Display My Vectors page which is empty, It should show a single button that Adds a quick list"		
+	Users want to see all their lists	Post Login	My Vectors Page	"Post login, this page is visible"		
+	Users face difficulty while quickly wanting to make list	Grocery	Quick List	"Add QuickList Button, Type and Click Enter or Add Button to quickly add item and bring back the cursor to type field"		
+	Users want to add more items to existing quicklist	Add items	Quick Add Button	Button to add item to the existing list		
+	Users want to delete existing item from the list	List item not required	Delete button	Button to remove item from the list		
+Features	Users want to be able to list down tasks that they wish to finish	Todo	Task List	"Abitlity to Remove task with left button, create new list with right button, click to mark complete or incomplete"		
+	Users want to be able to note down long notes	"Business Ideas, College Notes"	Note			
+	Users want to be able to format their paragraphs	"Poems, Stories"	Author	Several formatting options in the Note feature		
+	Users wants to search a text in all their lists and shared lists		Search	User should be able to 		
+Sharing	Users want to be able to share the list with others		Share			
+	Users want to be able categorize lists that they created and that others shared		Tabs	Additional Shared tab that		
+	Users wants to copy a shared list into their own tab		Fork			
+Collaborate	Users and teams want to consecutively make and edit list		"Clone?
+Direct Editing?"			
+	Users want to comment on items or lists		Comment	Button to add comment to lists or list items		
+Profile	Users wants to delete their account	User				
+	Users want to add a profile picture					
+FrontEnd	Users want to categorize their list into panels/ sections	Grouping				
+	Users want to colour their list theme	Theme				
+	Users want to change font style					
+	Users want to see galaxy themed white pink purple gradiant dynamic background like iphone addvertisement					
+						
+						
+						
+						
+						
+						
+						
+						
